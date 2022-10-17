@@ -1,0 +1,59 @@
+.all-contents{
+    display: flex;
+    justify-content: space-around;
+}
+.containeer{
+    width: 600px;
+}
+.containeer h1{
+background-color: black;
+color: white;
+width: 600px;
+}
+.calculation{
+background-color: aliceblue;
+height: 300px;
+}
+.boxes{
+height: 20px;
+width: 200px;
+margin-left: 30px;
+border-radius: 5px;
+border: 2px solid rgb(211, 211, 211);
+background-color: rgb(255, 255, 255);
+}
+#eng{
+margin-left: 20px;
+}
+#computer{
+margin-left: 10px;
+}
+.btns button{
+    margin-left: 10px;
+    margin-top:20px ;
+    height: 35px;
+    width: 90px;
+    background-color: rgb(44, 192, 130);
+    border-radius: 5px;
+    border: 2px solid wheat;
+}
+.right-side{
+height: 300px;
+width: 500px;
+background-color: powderblue;
+margin-top: 60px;
+}
+.common li{
+    display: flex;
+    
+    list-style: none;
+  }
+  .common{
+      display: flex;
+      font-size: 20px;
+  }
+  .same{
+   padding-left: 6px;
+   width: 60px;
+   border-bottom: 3px solid black;
+  }
